@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+.mypic{
+
+
+    border-radius: 100px;}
+    
+    .table1{
+        border-collapse: collapse;
+        border: 1px solid black;
+    }
+.feedback{
+    text-align: center;
+    display: block;
+}
